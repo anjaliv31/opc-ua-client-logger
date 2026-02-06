@@ -6,17 +6,17 @@ This project demonstrates industrial data integration using the OPC UA protocol.
 
 Objectives
 
-Implement an OPC UA server to simulate industrial data.
-Create 10 OPC UA tags with continuously changing values.
-Develop an OPC UA client to collect data from the server.
-Log timestamped data into hourly CSV files.
-Demonstrate continuous monitoring across multiple hours.
+Implement an OPC UA server to simulate industrial data
+Create 10 OPC UA tags with continuously changing values
+Develop an OPC UA client to collect data from the server
+Log timestamped data into hourly CSV files
+Demonstrate continuous monitoring across multiple hours
 
 Technologies Used
 
-Python
-OPC UA (freeopcua library)
-CSV for data storage
+Python,
+OPC UA (freeopcua library),
+CSV for data storage.
 
 
 OPC UA Tags Implemented
